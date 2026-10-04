@@ -48,6 +48,15 @@ I enjoy building projects, learning new technologies, solving DSA problems, and 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+## 💼 Experience
+
+### Frontend Developer Intern — GeoPathos
+**June 2026 – September 2026**
+
+- Worked on frontend development using **HTML, CSS & JavaScript**
+- Built and improved responsive UI components and website sections
+- Contributed to improving **UI/UX and website responsiveness**
+- Used **Git & GitHub** for version control and collaboration
 
 ## 📚 Currently Learning
 
